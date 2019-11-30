@@ -12,4 +12,4 @@ In the notes found [here](https://github.com/AnavSood/Relational-Trees/blob/mast
 
 # Acknowledgements
 
-I'd like to thank Erik for his guidance during the summer and Arianna and Mason for both providing an open ear when I wanted to bounce ideas off someone and for making helpful suggestions throughout the research process. I'd like to especially thank Patrick for his continued interested in the problem, and his helpful ideas surrounding proof avenues and developing machinery. 
+I'd like to thank Erik for his guidance during the summer, and Arianna and Mason for both providing an open ear when I wanted to bounce ideas off someone and for making helpful suggestions throughout the research process. I'd like to especially thank Patrick for his continued interested in the problem, and his helpful ideas surrounding proof avenues and developing machinery. 
