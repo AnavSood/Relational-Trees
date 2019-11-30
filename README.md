@@ -1,6 +1,6 @@
 The main notes and results are [here](https://github.com/AnavSood/Relational-Trees/blob/master/Notes%20on%20Counting%20and%20Classification%20of%20Relational%20Trees.pdf).
 
-# Introduction
+# Origins
 
 The following work originated during my summer as part of Stanford Undergraduate Research in Mathematics (SURIM). I worked in a group with Arianna Serafini and Mason Rogers under the guidance of then Stanford Math Ph.D. Canditiate Erik Bates. Our work is summarized in our final report [here](https://github.com/AnavSood/Relational-Trees/blob/master/SURIM%20Final%20Report.pdf). From this work, our group presented two posters at the Joint Mathematics Meetings in 2018.
 
@@ -12,4 +12,4 @@ In the notes found [here](https://github.com/AnavSood/Relational-Trees/blob/mast
 
 # Acknowledgements
 
-I'd like to thank Erik for his guidance during the summer and Arianna and Mason for providing an open ear when I wanted to bounce ideas off someone, and making helping suggestions throughout the research process. I'd like to especially thank Patrick for his continued interested in the problem, and his helpful ideas surrounding proof avenues and developing machinery. 
+I'd like to thank Erik for his guidance during the summer and Arianna and Mason for both providing an open ear when I wanted to bounce ideas off someone and for making helpful suggestions throughout the research process. I'd like to especially thank Patrick for his continued interested in the problem, and his helpful ideas surrounding proof avenues and developing machinery. 
