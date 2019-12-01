@@ -2,7 +2,7 @@ The main notes and results are [here](https://github.com/AnavSood/Relational-Tre
 
 # Origins
 
-The following work originated during my summer as part of Stanford Undergraduate Research in Mathematics (SURIM). I worked in a group with Arianna Serafini and Mason Rogers under the guidance of then Stanford Math Ph.D. Canditiate Erik Bates. Our work is summarized in our final report [here](https://github.com/AnavSood/Relational-Trees/blob/master/SURIM%20Final%20Report.pdf). From this work, our group presented two posters at the Joint Mathematics Meetings in 2018.
+The following work originated during my summer as part of Stanford Undergraduate Research in Mathematics (SURIM). I worked in a group with Arianna Serafini and Mason Rogers under the guidance of then Stanford Math Ph.D. Canditiate Erik Bates. Our work from the summer is summarized in our final report [here](https://github.com/AnavSood/Relational-Trees/blob/master/SURIM%20Final%20Report.pdf). From this work, our group presented two posters at the Joint Mathematics Meetings in 2018.
 
 My contributions from the above document are largely encompassed in Section 3. Another student in SURIM, Patrick Revilla, became interested in the sorts of problems I was working on during the end of the summer. We began to work together on future avenues of research as I was writing the report. We continued work (very) intermittently on the problems after the program. The notation adopted in the new set of notes is based on his writing. 
 
