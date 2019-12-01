@@ -8,7 +8,7 @@ My contributions from the above document are largely encompassed in Section 3. A
 
 # Results
 
-We provide two main results n the notes found [here](https://github.com/AnavSood/Relational-Trees/blob/master/Notes%20on%20Counting%20and%20Classification%20of%20Relational%20Trees.pdf). First, we count the number of equivalence classes that are induced on binary strings of length n by a relation r. Second, we are able to come up with a complete classification theorem for relational binary trees up to isomoprhism. See the notes for definitions. 
+We provide two main results n the notes found [here](https://github.com/AnavSood/Relational-Trees/blob/master/Notes%20on%20Counting%20and%20Classification%20of%20Relational%20Trees.pdf). First, we count the number of equivalence classes that are induced on binary strings of length n by a relation r. Second, we are able to come up with a complete classification theorem for relational trees. See the notes for definitions. 
 
 # Acknowledgements
 
